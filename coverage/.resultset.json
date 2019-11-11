@@ -1,0 +1,83 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/tenzinball/MAKERS/Bookmark_Manager/app.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/tenzinball/MAKERS/Bookmark_Manager/lib/bookmark.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
+        0,
+        null,
+        2,
+        8,
+        null,
+        null
+      ],
+      "/Users/tenzinball/MAKERS/Bookmark_Manager/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/tenzinball/MAKERS/Bookmark_Manager/spec/features/viewing_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1558710655
+  }
+}
